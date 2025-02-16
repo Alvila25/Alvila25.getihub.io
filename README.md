@@ -31,7 +31,8 @@
             <div class="benefit-image">
                 <img src="{% static 'images/career1.jpeg' %}" alt="Career Advice Icon">
             </div>
-            <div class="benefit-content">
+
+         <div class="benefit-content">
                 <h3>Expert Career Advice</h3>
                 <p>Get personalized career recommendations from industry professionals and career coaches.</p>
             </div>
