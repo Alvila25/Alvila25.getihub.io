@@ -50,7 +50,7 @@
             </div>
         </div>
 
-        <div class="benefit">
+<div class="benefit">
             <div class="benefit-image">
                 <img src="{% static 'images/career2.jpeg' %}" alt="Mentorship Icon" class="responsive-img">
             </div>
@@ -60,7 +60,7 @@
             </div>
         </div>
 
-        <div class="benefit">
+ <div class="benefit">
             <div class="benefit-image">
                 <img src="{% static 'images/career3.jpeg' %}" alt="Skills Training Icon" class="responsive-img">
             </div>
@@ -68,9 +68,9 @@
                 <h3>Skill Development</h3>
                 <p>Access courses and resources to improve your skills and enhance employability.</p>
             </div>
-        </div>
+        </div>   
 
-        <div class="benefit">
+<div class="benefit">
             <div class="benefit-image">
                 <img src="{% static 'images/career4.jpeg' %}" alt="Job Opportunities Icon" class="responsive-img">
             </div>
@@ -89,7 +89,8 @@
             <h3>Step 1</h3>
             <p>Sign up to create your profile and access personalized career resources.</p>
         </div>
-        <div class="step">
+        <div c
+        lass="step">
             <h3>Step 2</h3>
             <p>Get matched with mentors and receive career advice tailored to your goals.</p>
         </div>
