@@ -20,7 +20,7 @@
         Our goal is to empower students, job seekers, and professionals with the right knowledge and connections to thrive in their careers.
     </p>
     <p>
-        We envision a world where every individual has access to the guidance and resources needed to make informed career choices and achieve professional fulfillment.
+        We envision a future where every individual has access to the guidance and resources needed to make informed career choices and achieve professional fulfillment.
     </p>
 </section>
 
